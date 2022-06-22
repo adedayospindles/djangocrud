@@ -1,0 +1,2 @@
+# djangocrud
+Django Crud
